@@ -1,4 +1,15 @@
+
+                                            
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/rishabh-kumar-b98b55251/"> 
+    <img src="https://img.shields.io/badge/linkedin-%b98b55251.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Rishabh LinkedIn" height='20' width='90'/>
+  </a>
+  <a href="https://github.com/Rish6392"> 
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Rishabh GitHub" height='20' width='80'/>  
+  </a>
+</p>
+
 <h3 align="center">Passionate about Open Source , CP and DSA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rish6392&label=Profile%20views&color=0e75b6&style=flat" alt="rish6392" /> </p>
