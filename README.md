@@ -11,7 +11,7 @@
 </p>
 
 <div align="center" width="50%">
-  <p> MERN Stack Developer || C++ Developer </p>
+  <p><strong>MERN Stack Developer || C++ Developer</strong>  </p>
  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" style="height: 200px; width: auto;">
   <br>
   <p><strong>"📚 Learning. 👨‍💻 Building. 🔁 Improving."<br><br> Vibing to: 🎧</strong></p>
