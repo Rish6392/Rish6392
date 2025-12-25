@@ -31,6 +31,54 @@
   <br>
   <p><strong>"📚 Learning. 👨‍💻 Building. 🔁 Improving."<br><br> Vibing to: 🎧</strong></p>
 
+<!-- ================= ABOUT ME ================= -->
+
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<p>
+I'm a <b>MERN Stack Developer</b> and <b>Problem Solver</b> from <b>Bhagalpur, India</b>, passionate about building
+<b>scalable backend systems</b> and <b>clean REST APIs</b>.
+</p>
+
+<p>
+I enjoy solving real-world problems using <b>Data Structures & Algorithms</b> and modern web technologies.
+</p>
+
+<ul>
+  <li>🌱 Learning <b>Advanced React Patterns & Backend Optimization</b></li>
+  <li>🧠 Solved <b>500+ DSA problems</b> (LeetCode, CodeChef, Codeforces, GFG)</li>
+  <li>⚡ Interested in <b>System Design & Performance Optimization</b></li>
+  <li>🎯 Preparing for <b>Software Development Internships</b></li>
+</ul>
+
+<p>
+📫 <b>Email:</b> rishabhgzp2004@gmail.com
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"
+  alt="coding"
+  width="280"
+/>
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<!-- ============================================ -->
+
+
+
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
