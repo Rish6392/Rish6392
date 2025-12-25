@@ -1,14 +1,29 @@
+<h1 align="center">Hi 👋</h1>
+<h2 align="center">I'm Rishabh Kumar</h2>
 
-                                            
-<h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/rishabh-kumar-b98b55251/"> 
-    <img src="https://img.shields.io/badge/linkedin-%b98b55251.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Rishabh LinkedIn" height='20' width='90'/>
+  <a href="https://www.linkedin.com/in/rishabh-kumar-b98b55251/" target="_blank"> 
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Rishabh%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Rishabh LinkedIn"
+    />
   </a>
-  <a href="https://github.com/Rish6392"> 
-    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Rishabh GitHub" height='20' width='80'/>  
+
+  <a href="https://github.com/Rish6392" target="_blank"> 
+    <img 
+      src="https://img.shields.io/badge/GitHub-Rish6392-black?style=for-the-badge&logo=github&logoColor=white"
+      alt="Rishabh GitHub"
+    />  
+  </a>
+
+  <a href="https://leetcode.com/u/rish_6392/" target="_blank"> 
+    <img 
+      src="https://img.shields.io/badge/LeetCode-rish__6392-orange?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="Rishabh LeetCode"
+    />
   </a>
 </p>
+
 
 <div align="center" width="50%">
   <p><strong>MERN Stack Developer || C++ Developer</strong>  </p>
