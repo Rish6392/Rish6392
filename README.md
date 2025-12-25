@@ -63,8 +63,7 @@ I enjoy solving real-world problems using <b>Data Structures & Algorithms</b> an
 
 <td width="40%" align="center">
 
-<img 
-  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"
+<img src="Programming-pana.png"
   alt="coding"
   width="280"
 />
