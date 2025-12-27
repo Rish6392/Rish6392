@@ -26,7 +26,7 @@
 
 
 <div align="center" width="50%">
-  <p><strong>MERN Stack Developer || C++ Developer</strong>  </p>
+  <p><strong>Full Stack Developer || C++ Developer</strong>  </p>
  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" style="height: 200px; width: auto;">
   <br>
   <p><strong>"📚 Learning. 👨‍💻 Building. 🔁 Improving."<br><br> Vibing to: 🎧</strong></p>
@@ -51,7 +51,7 @@ I enjoy solving real-world problems using <b>Data Structures & Algorithms</b> an
 <ul>
   <li>🌱 Learning <b>Advanced React Patterns & Backend Optimization</b></li>
   <li>🧠 Solved <b>500+ DSA problems</b> (LeetCode, CodeChef, Codeforces, GFG)</li>
-  <li>⚡ Interested in <b>System Design & Performance Optimization</b></li>
+  <li>⚡ Interested in <b>Currently learning Next.js</b></li>
   <li>🎯 Preparing for <b>Software Development Internships</b></li>
 </ul>
 
