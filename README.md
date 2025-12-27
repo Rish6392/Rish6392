@@ -40,7 +40,7 @@
 <td width="60%" valign="top">
 
 <p>
-I'm a <b>MERN Stack Developer</b> and <b>Problem Solver</b> from <b>Bhagalpur, India</b>, passionate about building
+I'm a <b>Full Stack Developer</b> and <b>Problem Solver</b> from <b>Bhagalpur, India</b>, passionate about building
 <b>scalable backend systems</b> and <b>clean REST APIs</b>.
 </p>
 
@@ -50,8 +50,8 @@ I enjoy solving real-world problems using <b>Data Structures & Algorithms</b> an
 
 <ul>
   <li>🌱 Learning <b>Advanced React Patterns & Backend Optimization</b></li>
-  <li>🧠 Solved <b>500+ DSA problems</b> (LeetCode, CodeChef, Codeforces, GFG)</li>
-  <li>⚡ Interested in <b>Currently learning Next.js</b></li>
+  <li>🧠 Solved <b>600+ DSA problems</b> (LeetCode, CodeChef, Codeforces, GFG)</li>
+  <li>⚡ <b>Currently learning Next.js</b></li>
   <li>🎯 Preparing for <b>Software Development Internships</b></li>
 </ul>
 
