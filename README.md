@@ -165,7 +165,7 @@
 </ul>
 
 <p>
-  🔗 <a href="https://github.com/Rish6392" target="_blank">View on GitHub</a>
+  🔗 <a href="https://github.com/Rish6392/Medi-Meet" target="_blank">View on GitHub</a>
 </p>
 
 <br>
@@ -185,7 +185,7 @@
 </ul>
 
 <p>
-  🔗 <a href="https://github.com/Rish6392" target="_blank">View on GitHub</a>
+  🔗 <a href="https://github.com/Rish6392/UpSkillHub" target="_blank">View on GitHub</a>
 </p>
 
 <br>
@@ -203,6 +203,10 @@
   <li>Integrated Groq LLM for AI workout coaching.</li>
   <li>Added real-time webcam streaming and workout history tracking.</li>
 </ul>
+
+<p>
+  🔗 <a href="https://github.com/Rish6392/Realtime-Ai-Gym-Trainer" target="_blank">View on GitHub</a>
+</p>
 
 ---
 
