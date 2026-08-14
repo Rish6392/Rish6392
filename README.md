@@ -271,12 +271,12 @@
 
 <!-- ========================= CONTRIBUTION GRAPH ========================= -->
 
-<h2 align="center">🐍 My Contribution Journey</h2>
+<h2 align="center">📈 GitHub Contributions</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Rish6392/Rish6392/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rish6392&theme=github-dark&hide_border=true"
+    alt="Rishabh's GitHub Activity Graph"
   />
 </p>
 
