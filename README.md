@@ -5,7 +5,7 @@
 <h3 align="center">
   Full Stack Developer • React • Next.js • Node.js • C++
 </h3>
-
+a
 <p align="center">
   Building scalable web applications, REST APIs & AI-powered products.
 </p>
@@ -282,6 +282,8 @@
 
 ---
 
+---
+
 <!-- ========================= CODING PROFILES ========================= -->
 
 <h2 align="center">🧠 Coding Profiles</h2>
@@ -300,12 +302,6 @@
   />
 </a>
 
-<a href="https://codeforces.com/profile/rishabh2.230101104" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Codeforces-rishabh2.230101104-blue?style=for-the-badge&logo=codeforces&logoColor=white"
-  />
-</a>
-
 <a href="https://www.geeksforgeeks.org/user/rishabhgdviz/" target="_blank">
   <img
     src="https://img.shields.io/badge/GeeksforGeeks-rishabhgdviz-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
@@ -321,7 +317,6 @@
 </p>
 
 ---
-
 <!-- ========================= EDUCATION ========================= -->
 
 <h2 align="center">🎓 Education</h2>
