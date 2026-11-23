@@ -16,9 +16,7 @@ a
   </a>
   
 </a>
-  <a href="https://leetcode.com/u/rp031776/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1813-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  
   <a href="https://www.codechef.com/users/rish2004" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
@@ -289,11 +287,6 @@ a
 
 <p align="center">
 
-<a href="https://leetcode.com/u/rp031776/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LeetCode-rp-orange?style=for-the-badge&logo=leetcode&logoColor=black"
-  />
-</a>
 
 <a href="https://www.codechef.com/users/rish2004" target="_blank">
   <img
