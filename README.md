@@ -290,9 +290,9 @@ a
 
 <p align="center">
 
-<a href="https://leetcode.com/u/rish_6392/" target="_blank">
+<a href="https://leetcode.com/u/rp031776/" target="_blank">
   <img
-    src="https://img.shields.io/badge/LeetCode-rish__6392-orange?style=for-the-badge&logo=leetcode&logoColor=black"
+    src="https://img.shields.io/badge/LeetCode-rp-orange?style=for-the-badge&logo=leetcode&logoColor=black"
   />
 </a>
 
