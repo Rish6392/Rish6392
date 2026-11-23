@@ -14,8 +14,7 @@ a
   <a href="https://www.linkedin.com/in/rishabh-kumar-b98b55251/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-website-steel-eight-46.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
+  
 </a>
   <a href="https://leetcode.com/u/rp031776/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-1813-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
