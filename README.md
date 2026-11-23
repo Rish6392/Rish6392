@@ -17,8 +17,8 @@ a
   <a href="https://portfolio-website-steel-eight-46.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-  <a href="https://leetcode.com/u/rish_6392/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1571-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/rp031776/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1813-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/rish2004" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef&logoColor=white" />
